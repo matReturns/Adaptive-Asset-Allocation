@@ -1,4 +1,5 @@
 # Adaptive Asset Allocation Strategy Replication
+# from: [matReturns.com](https://matReturns.com)
 
 Welcome to the Adaptive Asset Allocation Strategy Replication repository! This repository focuses on replicating and analyzing the Adaptive Asset Allocation (AAA) strategy introduced by Adam Butler in the paper titled "[Adaptive Asset Allocation A Primer](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2328254)." The AAA strategy is a dynamic approach to portfolio allocation that aims to adjust weights based on changing market conditions and asset performance, with the goal of enhancing risk-adjusted returns over an investment horizon.
 
